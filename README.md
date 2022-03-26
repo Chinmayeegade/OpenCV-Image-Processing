@@ -1,6 +1,6 @@
 # OpenCV-Image-Processing
 - OpenCV is a Python open-source library, which is used for computer vision in Artificial intelligence, Machine Learning, face recognition, etc. In OpenCV, the CV is an abbreviation form of a computer vision, which is defined as a field of study that helps computers to understand the content of the digital images such as photographs and videos. 
-- This projecr comprises codes to various image editing, processing and filtering methods offered by OpenCV.
+- This project comprises codes to various image editing, processing and filtering methods offered by OpenCV.
 ## Resizing or Rescaling Images
 ![Screenshot (582)](https://user-images.githubusercontent.com/96294811/149668863-e8f8bb92-446e-4a4f-8ddb-24178f965286.png)
 ## Reading Images and Videos
